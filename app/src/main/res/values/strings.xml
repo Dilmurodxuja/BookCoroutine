@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BookCoroutine</string>
+    <string name="create_account"><u>Create Account</u></string>
+    <string name="books">Books</string>
+    <string name="title">title</string>
+    <string name="author">author</string>
+    <string name="description">description</string>
+    <string name="page_count">page count</string>
+    <string name="phone">phone number</string>
+    <string name="password">password</string>
+    <string name="submit">submit</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="firstname">first name</string>
+    <string name="lastname">last name</string>
+    <string name="ready">Ready</string>
+    <string name="enter_sms_code">Enter sms code</string>
+    <string name="back">back</string>
+    <string name="_998">+998</string>
+    <string name="users">users</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+</resources>
